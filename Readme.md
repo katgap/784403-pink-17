@@ -1,7 +1,7 @@
 # Личный проект «Пинк» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
 
 * Студент: [Екатерина Гапонова](https://up.htmlacademy.ru/adaptive/17/user/784403).
-* Наставник: `Неизвестно`.
+* Наставник: Антон Белицкий.
 
 ---
 
